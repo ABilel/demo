@@ -21,3 +21,14 @@ controllers:
         _locale: '%app_locales%'
     defaults:
         _locale: '%locale%'
+
+
+webhook_handler:
+    path: /{_locale}/webhook
+    controller: App\Controller\WebhookController::handleWebhook
+    methods: [POST]
+    requirements:
+        _locale: '%app_locales%'
+    defaults:
+        _locale: '%locale%'
+
