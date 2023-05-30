@@ -1,4 +1,4 @@
-Symfony Demo Application:Test Bilel Anaya///
+Symfony Demo Application:Test Bilel Anaya
 ========================
 
 The "Symfony Demo Application" is a reference application created to show how
