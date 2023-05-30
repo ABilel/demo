@@ -1,4 +1,4 @@
-Symfony Demo Application:Bilel
+Symfony Demo Application:Bilel Marouen
 ========================
 
 The "Symfony Demo Application" is a reference application created to show how
